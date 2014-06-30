@@ -378,7 +378,7 @@
 
 ## Informationsarchitektur
 
-### Information Architecture for the World Wide Web - 
+### Information Architecture for the World Wide Web
 - Autor: Louis Rosenfeld; Peter Morville
 - Verlag: O'Reilly
 - Datum: 01.01.2002
@@ -396,7 +396,7 @@
 
 ## UI-Design
 
-### About Face - 
+### About Face
 - Autor: Alan Cooper
 - Verlag: \[distributed by Transworld]
 - Datum: 01.01.1995
@@ -623,7 +623,7 @@
 
 ## Theorie
 
-### Analog Und Digital - 
+### Analog Und Digital
 - Autor: Otl Aicher
 - Verlag: Ernst & Sohn
 - Datum: 01.01.1991
@@ -637,14 +637,14 @@
 - Disziplin: Social Science / General
 - ISBN: 9780262631761
  
-### Das Kunstwerk Im Zeitalter Seiner Technischen Reproduzierbarkeit - 
+### Das Kunstwerk Im Zeitalter Seiner Technischen Reproduzierbarkeit
 - Autor: Walter Benjamin
 - Verlag: Suhrkamp Verlag
 - Datum: 01.01.1977
 - Disziplin: 
 - ISBN: 9783518100288
  
-### Der Mensch Und Seine Zeichen - 
+### Der Mensch Und Seine Zeichen
 - Autor: Adrian Frutiger
 - Verlag: Weiss Verlag
 - Datum: 01.01.1991
@@ -735,14 +735,14 @@
 - Disziplin: 
 - ISBN: 9783608942217
  
-### Women, Fire, and Dangerous Things - 
+### Women, Fire, and Dangerous Things
 - Autor: George Lakoff
 - Verlag: University of Chicago Press
 - Datum: 01.01.1990
 - Disziplin: Language Arts & Disciplines / Linguistics / General
 - ISBN: 9780226468044
  
-### Zur Anpassung Des Designs an Die Digitalen Medien - 
+### Zur Anpassung Des Designs an Die Digitalen Medien
 - Autor: Jörg Petruschat; Joseph Weizenbaum
 - Verlag: Form und Zweck
 - Datum: 01.01.1997
@@ -765,7 +765,7 @@
 - Disziplin: Art / Design / General
 - ISBN: 9780714844015
  
-### Shaping Things - 
+### Shaping Things
 - Autor: Bruce Sterling
 - Verlag: MIT Press
 - Datum: 01.01.2005
@@ -779,14 +779,14 @@
 - Disziplin: 
 - ISBN: 9783499600784
  
-### The Art of Experimental Interaction Design - 
+### The Art of Experimental Interaction Design
 - Autor: Andy Cameron; Francesco Menenghini; Paolo Palma; Mark Taylor
 - Verlag: Systems Design
 - Datum: 01.01.2004
 - Disziplin: Design / Graphic Arts / General
 - ISBN: 9789889706586
  
-### The Laws of Simplicity - 
+### The Laws of Simplicity
 - Autor: John Maeda
 - Verlag: MIT Press
 - Datum: 01.01.2006
@@ -807,8 +807,7 @@
 - Disziplin: Nature / Natural Resources
 - ISBN: 9780810930957
  
-### Corporate Identity & 
-- Corporate Design 
+### Corporate Identity & Corporate Design 
 - Autor: Matthias Beyrow, Norbert Daldrop, Petra Kiedaisch 
 - Erscheinungsjahr: 2013 
 - (3. Auflage – erweitert) 
@@ -866,7 +865,7 @@
 
 ## Designforschung
 
-### Artists as Inventors, Inventors as Artists - 
+### Artists as Inventors, Inventors as Artists
 - Autor: Dieter Daniels; Barbara U. Schmidt
 - Verlag: Hatje Cantz
 - Datum: 01.01.2008
@@ -947,21 +946,21 @@
 - Disziplin: Design / Book
 - ISBN: 9783764372415
  
-### Designing Interactions - 
+### Designing Interactions
 - Autor: Bill Moggridge
 - Verlag: MIT Press
 - Datum: 01.01.2007
 - Disziplin: Computers / Data Visualization
 - ISBN: 9780262134743
  
-### Universalgeschichte Der Schrift - 
+### Universalgeschichte Der Schrift
 - Autor: Harald Haarmann
 - Verlag: Campus-Verlag
 - Datum: 01.01.1991
 - Disziplin: 
 - ISBN: 9783880599550
  
-### Worte Und Bilder - 
+### Worte Und Bilder
 - Autor: Wolfgang Schmidt; Anke Jaaks
 - Verlag: Schmidt
 - Datum: 01.01.1992
@@ -985,7 +984,7 @@
 - Disziplin: Art
 - ISBN: 9783721202779
  
-### Farbe Digital - 
+### Farbe Digital
 - Autor: Unknown Author 733
 - Verlag: Rowohlt Taschenbuch-Verlag
 - Datum: 01.01.2004
@@ -999,7 +998,7 @@
 - Disziplin: 
 - ISBN: 9783921184172
  
-### Visuelles Gestalten Mit Dem Computer - 
+### Visuelles Gestalten Mit Dem Computer
 - Autor: Pina Lewandowsky; Francis Zeischegg
 - Verlag: Rowohlt-Taschenbuch-Verlag
 - Datum: 09.02.2002
