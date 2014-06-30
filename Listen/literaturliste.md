@@ -1,6 +1,8 @@
 # Literaturliste Interaction-Design
 
-*Stand 30. 6. 2014*
+*Literaturliste von Prof. Boris Müller und Studenten*  
+*FH-Potsdam*
+*Stand 30. 6. 2014*  
 
 
 ## Generative Gestaltung
