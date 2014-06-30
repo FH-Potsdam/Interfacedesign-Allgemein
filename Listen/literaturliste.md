@@ -1,7 +1,7 @@
 # Literaturliste Interaction-Design
 
 *Literaturliste von Prof. Boris Müller und Studenten*  
-*FH-Potsdam*
+*FH-Potsdam*  
 *Stand 30. 6. 2014*  
 
 
